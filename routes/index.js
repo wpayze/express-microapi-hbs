@@ -6,16 +6,6 @@ const personas = [
     "id" : "1",
     "nombre" : "Wilfredo",
     "edad" : "20"
-  },
-  {
-    "id" : "2",
-    "nombre" : "Zabdy",
-    "edad" : "25"
-  },
-  {
-    "id" : "3",
-    "nombre" : "Minimax",
-    "edad" : "30"
   }
 ];
 
